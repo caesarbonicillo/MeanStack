@@ -1,8 +1,0 @@
-David Bonicillo - Co-Teamlead/Research
-
-Template of Worklog example
-!!!!!!! REMEMBER latest updates on the top !!!!!
-
-DATE - Time - Work Description
-
-Nov 17, 2019 - 2 hours- Research about the mean Stack. 
