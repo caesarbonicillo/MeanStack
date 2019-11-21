@@ -1,0 +1,29 @@
+html, body {
+    height:100%;
+    background: #ffffff;
+    margin: 0;   
+}
+
+a:hover{
+    color: black;
+}
+
+header{
+    
+}
+
+.nav a::before{
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    color: transparent;
+    content: '•';
+    text-shadow: whitesmoke;
+    font-size: 2 em;
+
+}
+
+.nav a:hover::before, .nav a:focus::before{
+    color: white;
+    text-shadow: gray;
+}
