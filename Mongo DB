@@ -14,3 +14,7 @@ To stop the Mongo daemon hit ctrl-c
 This is how to install Mongodb for Macs using Homebrew
 
 https://treehouse.github.io/installation-guides/mac/mongo-mac.html
+
+Here is the full install
+
+https://medium.com/@ashwinsathyan19/setting-up-your-new-mac-for-mean-stack-development-152aaf927133
