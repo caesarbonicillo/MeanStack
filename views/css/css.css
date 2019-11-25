@@ -11,6 +11,11 @@
       text-decoration: none;
       font-size: 17px;
   }
+  .topnav h2{
+    float: left;
+    color: #f2f2f2;
+    font-size: large;
+  }
   
   .topnav a:hover {
     background-color: #ddd;
@@ -33,5 +38,53 @@
        margin: 0px;
        font-family: Arial, Helvetica, sans-serif;
        font-size: 18px;
-      
+       text-align: center;
+       border: 25px;
+  }
+  p{
+    font-size: 18px;
+    line-height: 2em;
+    margin-bottom: 32px;
+  }
+  .app {
+    border: 5px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+  }
+  .github{
+    border: 5px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .stack{
+    border: 5px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+   
+  }
+  h1{
+    font-size: 36px;
+  }
+  .intro{
+    border: 5px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
   }
