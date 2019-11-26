@@ -6,9 +6,9 @@ Repository for tutorials on the following:
 3. [How to build a 'Hello World' web app on a MEAN stack tutorial](https://docs.google.com/document/d/1Kiya3Be_Vr8RRRSzGjg1xbi66RmqvZFONCvs6g9iPdc/edit?usp=sharing)
 
 David Bonicillo - Co-Project/Repo Management and Research
-Khanh Trinh Nguyen - Co-Project//Repo Management 
-Sebastian Quintana - Design and Development
-Crosby Allison - Design and Development
-Josh Bordallo - Development, Review, Edit  
-Joen Ho - Design, Write, Edit, Test
-Jessica Sites - Outline, Write, Edit, Test 
+\nKhanh Trinh Nguyen - Co-Project//Repo Management 
+\nSebastian Quintana - Design and Development
+\nCrosby Allison - Design and Development
+\nJosh Bordallo - Development, Review, Edit  
+\nJoen Ho - Design, Write, Edit, Test
+\nJessica Sites - Outline, Write, Edit, Test 
