@@ -1,6 +1,6 @@
 # How-To-Build-a-MEAN-Stack
 
-Team: 
+Team: <br> 
 David Bonicillo - Co-Project/Repo Management and Research
 Khanh Trinh Nguyen - Co-Project//Repo Management
 Sebastian Quintana - Design and Development
