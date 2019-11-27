@@ -1,13 +1,13 @@
 # How-To-Build-a-MEAN-Stack
 
 Team: <br> 
-David Bonicillo - Co-Project/Repo Management and Research
-Khanh Trinh Nguyen - Co-Project//Repo Management
-Sebastian Quintana - Design and Development
-Crosby Allison - Design and Development
-Josh Bordallo - Development, Review, Edit  
-Joen Ho - Design, Write, Edit, Test
-Jessica Sites - Outline, Write, Edit, Test 
+David Bonicillo - Co-Project/Repo Management and Research <br> 
+Khanh Trinh Nguyen - Co-Project//Repo Management <br> 
+Sebastian Quintana - Design and Development <br> 
+Crosby Allison - Design and Development <br>
+Josh Bordallo - Development, Review, Edit  <br>
+Joen Ho - Design, Write, Edit, Test <br>
+Jessica Sites - Outline, Write, Edit, Test <br> 
 
 Repository for tutorials on the following: 
 
